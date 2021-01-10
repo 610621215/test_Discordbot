@@ -21,7 +21,7 @@ client.on('message',(msg)=>{
       const part1='';
       if(msg.content==='!rule'){
             msg.channel.send('!submit + 答案');
-            msg.channel.send('ex: !submit 2375');
+            msg.channel.send('ex: !submit 2576');
 
       }
       if(msg.content==='ping'){
